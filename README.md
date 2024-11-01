@@ -1,4 +1,3 @@
-# ecommerce-store
 # Ecommerce Store with Django
 This is an Ecommerce store based on `Django 2.2` and `python 3.6`
 
